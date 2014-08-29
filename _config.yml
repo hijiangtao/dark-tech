@@ -1,0 +1,82 @@
+menu:
+  Home: /dark-tech/
+  Archives: /dark-tech/archives
+  About: /dark-tech/about
+  Lab: /dark-tech/lab
+  ## You can modify the url to your own personal setting.
+
+widgets:
+- search
+## the search box
+- weibo
+## your weibo show
+- recent_posts
+## your recent posts show
+- category
+## category
+- blogroll
+## friendly link
+- tagcloud
+## the tag of your articles with an effect of wordcloud
+
+excerpt_link: Continue Reading
+
+comment:
+  duoshuo: true
+  duoshuo_short_name: datablog
+## to enable disqus, you need to fill in the disqus_shortname in config.yml
+## to enable duoshuo, you need duoshuo id and set duosuo to true
+
+## share plugins at the bottom of the article
+share:
+  enable: true
+  jiathis: true
+  twitter: false
+  google: false
+
+bottom_link:
+  google_plus: 
+  ## e.g. 104684175089936429154 for https://plus.google.com/u/0/104684175089936429154/posts
+  github: https://github.com/hijiangtao
+  twitter: 
+  ## e.g. ffff for https://twitter.com/ffff
+  weibo: http://www.weibo.com/jiangtaotao
+  facebook: 
+  ## e.g. ffff for https://www.facebook.com/ffff
+  renren: 
+  ## e.g. 333333333 for http://www.renren.com/333333333
+
+logo:
+  enable: true  
+  ## display img
+  src: img/favicon.png 
+  ## 32 * 32px, logo img
+  apple_icon: img/apple-icon.ico 
+  ## logo img for apple icon, 114 * 114 px
+
+## your personal page, could be your github account page, twitter or google plus personal page
+## By default its your homepage
+personal_site: 
+
+addthis:
+  enable: true
+  pubid: 
+  facebook: true
+  twitter: true
+  google: true
+
+fancybox: false
+
+## you can change the custom font in head.ejs
+CustomFont: true
+
+## google analytics id, e.g.UA-28532742-2
+google_analytics: UA-48887175-1
+
+## url of your rss
+## it is highly recommanded to use rss plugins, https://github.com/hexojs/hexo-generator-feed
+rss: /dark-tech/atom.xml
+
+## for Chinese users
+ChineseUser: true
+## 默认false. 如果你的访客大部分来自中国, 那么请设置为true, cdn将会调换为360和百度公共库, 同时lang和content-language也会被修改
