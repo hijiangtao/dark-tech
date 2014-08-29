@@ -29,7 +29,7 @@ git pull
 
 #Configuration
 
-``` javascript
+```
 menu:
   Home: /dark-tech/
   Archives: /dark-tech/archives
