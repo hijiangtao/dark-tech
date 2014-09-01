@@ -9,7 +9,7 @@ Dark-Tech theme is really a cool ideal personal-blog resolution, which is inspir
 ##Theme Installation
 
 ``` javascript
-git clone https://github/com/hijiangtao/dark-tech.git
+git clone https://github/com/hijiangtao/dark-tech.git themes/dark-tech
 ```
 
 *Dark-Tech Theme's working requires Hexo 2.4.5 and above.*
