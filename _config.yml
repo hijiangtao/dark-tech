@@ -8,16 +8,16 @@ menu:
 widgets:
 - search
 ## the search box
-- weibo
-## your weibo show
-- recent_posts
-## your recent posts show
 - category
 ## category
-- blogroll
-## friendly link
+- recent_posts
+## your recent posts show
 - tagcloud
 ## the tag of your articles with an effect of wordcloud
+- weibo
+## your weibo show
+- blogroll
+## friendly link
 
 excerpt_link: Continue Reading
 

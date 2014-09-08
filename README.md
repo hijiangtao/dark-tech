@@ -2,6 +2,12 @@
 
 Dark-Tech theme is really a cool ideal personal-blog resolution, which is inspired by Hacker Cultrue and Metro-light Theme(Author:[halfer53](https://github.com/halfer53/)). It's a flat, minimal and responsive theme designed for hexo, and developed based on dark. Welcome the Redevelopment based on Dark-Tech as well as the Use of it.
 
+#Demo Show
+
+Data.Blog(Real-time Update): [link](http://hijiangtao.github.io/)
+
+Dark-Tech Demo(Updated to 2014-09-01): [link](http://hijiangtao.github.io/dark-tech/)
+
 <!--more-->
 
 #Installation
@@ -40,16 +46,16 @@ menu:
 widgets:
 - search
 ## the search box
-- weibo
-## your weibo show
-- recent_posts
-## your recent posts show
 - category
 ## category
-- blogroll
-## friendly link
+- recent_posts
+## your recent posts show
 - tagcloud
 ## the tag of your articles with an effect of wordcloud
+- weibo
+## your weibo show
+- blogroll
+## friendly link
 
 excerpt_link: Continue Reading
 
