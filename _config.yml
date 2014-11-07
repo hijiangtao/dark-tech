@@ -9,6 +9,7 @@ menu:
 widgets:
 - search
 ## the search box
+<<<<<<< HEAD
 - recent_posts
 ## your recent posts show
 - category
@@ -17,6 +18,16 @@ widgets:
 ## your weibo show
 - tagcloud
 ## the tag of your articles with an effect of wordcloud
+=======
+- category
+## category
+- recent_posts
+## your recent posts show
+- tagcloud
+## the tag of your articles with an effect of wordcloud
+- weibo
+## your weibo show
+>>>>>>> origin/master
 - blogroll
 ## friendly link
 
