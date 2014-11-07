@@ -120,8 +120,6 @@ ChineseUser: false
 ## 默认false. 如果你的访客大部分来自中国, 那么请设置为true, cdn将会调换为360和百度公共库, 同时lang和content-language也会被修改
 ```
 
-**Thanks for halfer53's working for metro-light theme.**
-
 [Joe Jiang](http://hijiangtao.github.io/)
 
 2014.11
