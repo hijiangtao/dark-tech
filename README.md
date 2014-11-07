@@ -122,6 +122,6 @@ ChineseUser: false
 
 **Thanks for halfer53's working for metro-light theme.**
 
-[Jo Jiang](http://hijiangtao.github.io/)
+[Joe Jiang](http://hijiangtao.github.io/)
 
-2014.8
+2014.11
