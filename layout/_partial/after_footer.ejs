@@ -23,7 +23,7 @@
 
   <% } else if(theme.comment.duoshuo && theme.comment.duoshuo_short_name) { %>
 
- <script type="text/javascript">
+<script type="text/javascript">
 var duoshuoQuery = {short_name:"<%= theme.comment.duoshuo_short_name %>"};
 (function() {
     var ds = document.createElement('script');
@@ -64,4 +64,3 @@ $('.scroll-top').bind('click', function(e) {
     $('body,html').animate({scrollTop:0},200);
 });
 </script>
-

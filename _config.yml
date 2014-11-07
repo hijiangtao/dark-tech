@@ -3,21 +3,22 @@ menu:
   Archives: /dark-tech/archives
   About: /dark-tech/about
   Lab: /dark-tech/lab
+  GuestBook: /guestbook
   ## You can modify the url to your own personal setting.
 
 widgets:
 - search
 ## the search box
-- weibo
-## your weibo show
 - recent_posts
 ## your recent posts show
 - category
 ## category
-- blogroll
-## friendly link
+- weibo
+## your weibo show
 - tagcloud
 ## the tag of your articles with an effect of wordcloud
+- blogroll
+## friendly link
 
 excerpt_link: Continue Reading
 
