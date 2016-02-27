@@ -1,8 +1,7 @@
 menu:
   Home: /dark-tech/
   Archives: /dark-tech/archives
-  About: /dark-tech/about
-  Lab: /dark-tech/lab
+  About: /about
   GuestBook: /guestbook
   ## You can modify the url to your own personal setting.
 
@@ -11,16 +10,20 @@ widgets:
 ## the search box
 - category
 ## category
-- weibo
-## your weibo show
 - recent_posts
 ## your recent posts show
 - tagcloud
 ## the tag of your articles with an effect of wordcloud
 - weibo
 ## your weibo show
+
 - blogroll
 ## friendly link
+
+blogroll:
+  Google: https://www.google.com/
+  Github: https://github.com/
+  hijiangtao: http://hijiangtao.github.io/
 
 excerpt_link: Continue Reading
 
@@ -43,7 +46,7 @@ bottom_link:
   github: https://github.com/hijiangtao
   twitter: 
   ## e.g. ffff for https://twitter.com/ffff
-  weibo: http://www.weibo.com/jiangtaotao
+  weibo: http://weibo.com/hijiangtao
   facebook: 
   ## e.g. ffff for https://www.facebook.com/ffff
   renren: 
@@ -59,7 +62,7 @@ logo:
 
 ## your personal page, could be your github account page, twitter or google plus personal page
 ## By default its your homepage
-personal_site: 
+personal_site: /
 
 addthis:
   enable: true
