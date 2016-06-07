@@ -4,9 +4,7 @@ Dark-Tech theme is really a cool ideal personal-blog resolution, which is inspir
 
 #Demo Show
 
-Data.Blog(Real-time Update): [link](http://hijiangtao.github.io/)
-
-Dark-Tech Demo(Updated to 2014-09-01): [link](http://hijiangtao.github.io/dark-tech/)
+Dark-Tech Demo(Updated to 2016-02-27): [link](http://hijiangtao.github.io/dark-tech/)
 
 <!--more-->
 
@@ -56,6 +54,12 @@ widgets:
 ## your weibo show
 - blogroll
 ## friendly link
+
+blogroll:
+  Google: https://www.google.com/
+  Github: https://github.com/
+  hijiangtao: http://hijiangtao.github.io/
+## add your each item's name and link of your blogroll above, the page will generate the links as the order above
 
 excerpt_link: Continue Reading
 
@@ -122,4 +126,4 @@ ChineseUser: false
 
 [Joe Jiang](http://hijiangtao.github.io/)
 
-2014.11
+2016.02

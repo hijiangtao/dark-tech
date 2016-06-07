@@ -1,8 +1,7 @@
 menu:
   Home: /dark-tech/
   Archives: /dark-tech/archives
-  About: /dark-tech/about
-  Lab: /dark-tech/lab
+  About: /about
   GuestBook: /guestbook
   ## You can modify the url to your own personal setting.
 
@@ -24,6 +23,7 @@ widgets:
 blogroll:
   Google: https://www.google.com/
   Github: https://github.com/
+  hijiangtao: http://hijiangtao.github.io/
 
 excerpt_link: Continue Reading
 
@@ -62,7 +62,7 @@ logo:
 
 ## your personal page, could be your github account page, twitter or google plus personal page
 ## By default its your homepage
-personal_site: 
+personal_site: /
 
 addthis:
   enable: true
