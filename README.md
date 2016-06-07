@@ -1,6 +1,6 @@
 #Dark-Tech : A New Hexo Theme
 
-Dark-Tech theme is really a cool ideal personal-blog resolution, which is inspired by Hacker Cultrue and Metro-light Theme(Author:[halfer53](https://github.com/halfer53/)). It's a flat, minimal and responsive theme designed for hexo, and developed based on dark. Welcome the Redevelopment based on Dark-Tech as well as the Use of it.
+Dark-Tech theme is really a cool ideal personal-blog resolution, which is inspired by Hacker Culture and Metro-light Theme(Author:[halfer53](https://github.com/halfer53/)). It's a flat, minimal and responsive theme designed for hexo, and developed based on dark. Welcome the Redevelopment based on Dark-Tech as well as the Use of it.
 
 #Demo Show
 
