@@ -11,16 +11,19 @@ widgets:
 ## the search box
 - category
 ## category
-- weibo
-## your weibo show
 - recent_posts
 ## your recent posts show
 - tagcloud
 ## the tag of your articles with an effect of wordcloud
 - weibo
 ## your weibo show
+
 - blogroll
 ## friendly link
+
+blogroll:
+  Google: https://www.google.com/
+  Github: https://github.com/
 
 excerpt_link: Continue Reading
 
@@ -43,7 +46,7 @@ bottom_link:
   github: https://github.com/hijiangtao
   twitter: 
   ## e.g. ffff for https://twitter.com/ffff
-  weibo: http://www.weibo.com/jiangtaotao
+  weibo: http://weibo.com/hijiangtao
   facebook: 
   ## e.g. ffff for https://www.facebook.com/ffff
   renren: 
