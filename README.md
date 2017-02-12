@@ -2,9 +2,13 @@
 
 Dark-Tech theme is really a cool ideal personal-blog resolution, which is inspired by Hacker Culture and Metro-light Theme(Author:[halfer53](https://github.com/halfer53/)). It's a flat, minimal and responsive theme designed for hexo, and developed based on dark. Welcome the Redevelopment based on Dark-Tech as well as the Use of it.
 
-#Demo Show
+#Demo
 
 Dark-Tech Demo(Updated to 2016-02-27): [link](http://hijiangtao.github.io/dark-tech/)
+
+A picture of Dark-Tech shows below:
+
+![](/source/img/demo.png 'DEMO')
 
 <!--more-->
 
@@ -58,7 +62,7 @@ widgets:
 blogroll:
   Google: https://www.google.com/
   Github: https://github.com/
-  hijiangtao: http://hijiangtao.github.io/
+  hijiangtao: https://hijiangtao.github.io/
 ## add your each item's name and link of your blogroll above, the page will generate the links as the order above
 
 excerpt_link: Continue Reading
@@ -124,6 +128,6 @@ ChineseUser: false
 ## 默认false. 如果你的访客大部分来自中国, 那么请设置为true, cdn将会调换为360和百度公共库, 同时lang和content-language也会被修改
 ```
 
-[Joe Jiang](http://hijiangtao.github.io/)
+[Joe Jiang](https://hijiangtao.github.io/)
 
 2016.02
