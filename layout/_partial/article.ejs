@@ -31,12 +31,9 @@
             <% } %>
             <li>
               <span class="heading-span">With: </span>
-              <% if(config.disqus_shortname && !theme.comment.duoshuo) { %>
+              <% if(config.disqus_shortname) { %>
                 <a href="<%- config.root %><%- item.path %>#disqus_thread">Comments</a>
 
-              <% } else if(theme.comment.duoshuo && theme.comment.duoshuo_short_name) { %>
-
-                <a href="<%- config.root %><%- item.path %>#ds-thread"><span class="ds-thread-count" data-thread-key="<%- item.path %>" data-count-type="comments"></span></a>
               <% } %>
           </ul>
         </header>
