@@ -1,8 +1,8 @@
-#Dark-Tech : A New Hexo Theme
+# Dark-Tech : A New Hexo Theme
 
 Dark-Tech theme is really a cool ideal personal-blog resolution, which is inspired by Hacker Culture and Metro-light Theme(Author:[halfer53](https://github.com/halfer53/)). It's a flat, minimal and responsive theme designed for hexo, and developed based on dark. Welcome the Redevelopment based on Dark-Tech as well as the Use of it.
 
-#Demo
+# Demo
 
 Dark-Tech Demo(Updated to 2016-02-27): [link](http://hijiangtao.github.io/dark-tech/)
 
@@ -12,9 +12,9 @@ A picture of Dark-Tech shows below:
 
 <!--more-->
 
-#Installation
+# Installation
 
-##Theme Installation
+## Theme Installation
 
 ``` javascript
 git clone https://github/com/hijiangtao/dark-tech.git themes/dark-tech
@@ -22,11 +22,11 @@ git clone https://github/com/hijiangtao/dark-tech.git themes/dark-tech
 
 *Dark-Tech Theme's working requires Hexo 2.4.5 and above.*
 
-##Enable
+## Enable
 
 Modify the `theme` setting which is folded in blog folder: change the text behind the `_config.yml` to `dark-tech`.
 
-##Update
+## Update
 
 ``` javascript
 cd themes/dark-tech
@@ -35,7 +35,7 @@ git pull
 
 *please backup your `_config.yml` file before update.*
 
-#Configuration
+# Configuration
 
 ```
 menu:
