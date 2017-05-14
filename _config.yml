@@ -42,10 +42,10 @@ share:
 bottom_link:
   google_plus: 
   ## e.g. 104684175089936429154 for https://plus.google.com/u/0/104684175089936429154/posts
-  github: https://github.com/hijiangtao
+  github: hijiangtao
   twitter: 
   ## e.g. ffff for https://twitter.com/ffff
-  weibo: http://weibo.com/hijiangtao
+  weibo: hijiangtao
   facebook: 
   ## e.g. ffff for https://www.facebook.com/ffff
   renren: 
